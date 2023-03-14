@@ -17,3 +17,12 @@ yarn dev
 ```bash
 yarn build
 ```
+
+## How to copy
+  
+```bash
+git clone https://github.com/andrey-kudinov/windows.git
+cd windows or open folder in your IDE
+git remote set-url origin your-url
+git push -u origin master
+```
