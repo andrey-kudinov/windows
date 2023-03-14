@@ -6,6 +6,12 @@
 npm install -g yarn
 ```
 
+## How to install dependencies:
+
+```bash
+yarn
+```
+
 ## How to run the project:
 
 ```bash
